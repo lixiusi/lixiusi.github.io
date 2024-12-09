@@ -1,6 +1,6 @@
-<figure style="margin: 0; text-align: left;">
+<figure style="margin: 0 0 16px 0; text-align: left;">
     <img src="me.png" alt="Drawing by my friend Mélisande" width="250">
-    <figcaption style="color: gray;">
+    <figcaption style="color: gray; font-size: 10px;">
     Drawing by my friend <a href="https://melisandeteng.github.io/" target="_blank" style="color: inherit;">Mélisande</a>
     </figcaption>
 </figure>
