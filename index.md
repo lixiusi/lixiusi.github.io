@@ -1,8 +1,7 @@
 <figure>
-    <img src="me.png" alt="Drawing by my friend Mélisande" width="300">
-    <figcaption><a href="https://melisandeteng.github.io/" target="_blank">Drawing by my friend Mélisande</a></figcaption>
+    <img src="me.png" alt="Drawing by my friend Mélisande" width="200">
+    <figcaption>Drawing by my friend <a href="https://melisandeteng.github.io/" target="_blank" style="color: black; text-decoration: none;">Mélisande</a></figcaption>
 </figure>
-
 
 Hi there! I'm a PhD student under the supervision of [Prof Siamak Ravanbakhsh](https://siamak.page/) at *McGill University* and *Mila*. I spent the past year (2023-2024) as a Master's student in Montreal working on **identifiability of abstractions in causal representation learning** and have officially started my PhD as of September 2024.
 
