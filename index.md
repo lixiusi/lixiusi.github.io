@@ -11,10 +11,11 @@ Hi there! I'm a PhD student under the supervision of [Prof Siamak Ravanbakhsh](h
 
 I completed my MMath degree at the *University of Oxford* (2016 - 2020), where my dissertation was on the topic of **profinite groups** under the supervision of [Prof Nikolay Nikolov](https://www.maths.ox.ac.uk/people/nikolay.nikolov). I then briefly had a real job as a ML research engineer for a biotech startup in London (2020 - 2022), where we worked on **molecular profiling of biomarkers** directly from gigapixel whole slide images.
 
-I am always down to procrastinate / drink tea / go climbing / sample chocolate / watch film noir should you find yourself in my vicinity.
+# News
 
-I'm also an organizer for the [Causality and Large Models workshop @ NeurIPS](https://calm-workshop-2024.github.io/) this year, so please come by and say hello.
+* Our paper [_On the Identifiability of Causal Abstractions_](https://arxiv.org/abs/2503.10834) was accepted at AISTATS 2025
 
+* I am an organizer for the [Causality and Large Models workshop @ NeurIPS 2024](https://calm-workshop-2024.github.io/).
 email: myfirstname.mysurname@mila.quebec
 
 <a href="https://www.linkedin.com/in/xiusi-li-925461129" target="_blank">
