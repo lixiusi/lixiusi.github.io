@@ -19,10 +19,3 @@ I completed my MMath degree at the *University of Oxford* (2016 - 2020), where m
 
 ### Contact
 email: myfirstname.mysurname@mila.quebec
-
-<a href="https://www.linkedin.com/in/xiusi-li-925461129" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://scholar.google.com/citations?user=NfSudKcAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-</a>
